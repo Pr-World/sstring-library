@@ -38,7 +38,7 @@ int main(){
 	checkforerrs(a);
 	
 	//display
-	printf("%s",a.val);
+	printf("%s",sstr.val(a));
 	
 	return 0;
 }
