@@ -5,6 +5,14 @@
 
 /*
 Example usage of appending a string!
+
+Function used: sstr.append()
+
+parameters:- sstr.append(sstring var1,char * var2)
+
+var1 -> the sstring to which we want to append
+var2 -> the string which we want to be appded to var1 [tip: use sstr.val(var) to append sstring to sstring in var2 place]
+
 initially we dont need to include stdlib.h
 But are included for functions defined here!
 */
