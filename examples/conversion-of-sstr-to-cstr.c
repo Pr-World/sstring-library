@@ -4,7 +4,16 @@
 
 
 /*
-Example usage of sstring.h function -> sstr.convS2C
+Example usage of converting sstring to cstring
+
+Function used: sstr.convS2C()
+
+parameters:- sstr.convS2C(sstring var,char * _Buff,size_t upto)
+
+var -> the sstring which you want to convert
+_Buff -> the cstring to which you want the value to be
+_upto -> the specified value upto which the string value of var will be copied to _Buff
+
 initially we dont need to include stdlib.h
 But are included for functions defined here!
 */
