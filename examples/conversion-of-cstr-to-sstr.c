@@ -4,7 +4,14 @@
 
 
 /*
-Example usage of sstring.h function -> sstr.convC2s
+Example usage of converting c-style array string to modern type sstring!
+
+Function used: sstr.convC2S
+
+parameters:- sstr.convC2S(char * _Buff)
+
+_Buff -> the c-style array string that we want to convert!
+
 initially we dont need to include stdlib.h
 But are included for error functions defined here!
 */
