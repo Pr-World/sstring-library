@@ -14,6 +14,8 @@ var -> the sstring which you want to convert
 _Buff -> the cstring to which you want the value to be
 _upto -> the specified value upto which the string value of var will be copied to _Buff
 
+Return type:- sstring
+
 initially we dont need to include stdlib.h
 But are included for functions defined here!
 */
