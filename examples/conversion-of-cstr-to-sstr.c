@@ -12,6 +12,8 @@ parameters:- sstr.convC2S(char * _Buff)
 
 _Buff -> the c-style array string that we want to convert!
 
+Return type:- sstring
+
 initially we dont need to include stdlib.h
 But are included for error functions defined here!
 */
