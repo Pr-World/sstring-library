@@ -5,6 +5,14 @@
 
 /*
 Example usage of declaring a string!
+
+Function used: sstr.init()
+
+parameters:- sstr.init(void)
+Contains no parameters
+
+Return type:- sstring
+
 initially we dont need to include stdlib.h
 But are included for functions defined here!
 */
